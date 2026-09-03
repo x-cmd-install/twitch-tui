@@ -1,0 +1,58 @@
+about:
+  description: Twitch chat in the terminal.
+  license: Apache-2.0
+  homepage: https://xithrius.github.io/twitch-tui/
+  head: 039d4df
+  archived: false
+  latestVersion: v3.0.0-alpha.3
+  collectedAt: 2026-09-03T04:53:18Z
+timeline:
+  created: 2021-08-23
+  lastCommit: 2026-09-02
+  lastRelease: 2025-09-05
+popularity:
+  star: 633
+  watcher: 8
+  fork: 45
+  release: 62
+  contributor: 18
+  pullRequest: 300
+  issue: 167
+language:
+  Rust: 378297
+  Nix: 971
+  Dockerfile: 493
+totalLine: 379761
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 0
+    mergedPR: 0
+    openPR: 1
+    closedIssue: 0
+    openIssue: 0
+    commit: 1
+  last90d:
+    since: 2026-06-05
+    release: 0
+    mergedPR: 0
+    openPR: 1
+    closedIssue: 0
+    openIssue: 0
+    commit: 1
+  last180d:
+    since: 2026-03-07
+    release: 0
+    mergedPR: 9
+    openPR: 1
+    closedIssue: 1
+    openIssue: 0
+    commit: 10
+  last360d:
+    since: 2025-09-08
+    release: 0
+    mergedPR: 25
+    openPR: 1
+    closedIssue: 1
+    openIssue: 1
+    commit: 50
