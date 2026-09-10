@@ -1,0 +1,186 @@
+- repo: arch
+  subrepo: extra
+  srcname: twitch-tui
+  binname: twitch-tui
+  visiblename: twitch-tui
+  version: 2.6.19
+  origversion: 2.6.19-1
+  status: newest
+  summary: Twitch chat in the terminal
+  licenses:
+    - MIT
+    - Apache-2.0
+- repo: aur
+  srcname: twitch-tui-git
+  binname: twitch-tui-git
+  visiblename: twitch-tui-git
+  version: 2.6.19.r0.c1c79f0
+  origversion: 2.6.19.r0.c1c79f0-1
+  status: rolling
+  summary: Twitch chat in the terminal
+  maintainers:
+    - aethar@aur
+  licenses:
+    - MIT
+- repo: freebsd
+  srcname: net-p2p/twitch-tui
+  binname: twitch-tui
+  visiblename: net-p2p/twitch-tui
+  version: 2.6.19
+  origversion: 2.6.19_12
+  status: newest
+  summary: Twitch chat in the terminal
+  maintainers:
+    - yuri@freebsd.org
+  categories:
+    - net-p2p
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: twitch-tui
+  binname: twitch-tui
+  visiblename: twitch-tui
+  version: 2.6.19
+  origversion: 2.6.19-1
+  status: newest
+  summary: Twitch chat in the terminal
+  licenses:
+    - MIT
+    - Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: twitch-tui
+  binname: twitch-tui
+  visiblename: twitch-tui
+  version: 2.6.19
+  origversion: 2.6.19-1
+  status: newest
+  summary: Twitch chat in the terminal
+  licenses:
+    - MIT
+    - Apache-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: twitch-tui
+  binname: twitch-tui
+  visiblename: twitch-tui
+  version: 2.6.19
+  origversion: 2.6.19-1
+  status: newest
+  summary: Twitch chat in the terminal
+  licenses:
+    - MIT
+    - Apache-2.0
+- repo: nix_stable_24_05
+  srcname: twitch-tui
+  visiblename: twitch-tui
+  version: 2.6.9
+  origversion: null
+  status: outdated
+  summary: Twitch chat in the terminal
+  maintainers:
+    - xrcrod@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: twitch-tui
+  visiblename: twitch-tui
+  version: 2.6.17
+  origversion: null
+  status: outdated
+  summary: Twitch chat in the terminal
+  maintainers:
+    - xrcrod@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: twitch-tui
+  visiblename: twitch-tui
+  version: 2.6.19
+  origversion: null
+  status: newest
+  summary: Twitch chat in the terminal
+  maintainers:
+    - lord@mzte.de
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: twitch-tui
+  visiblename: twitch-tui
+  version: 2.6.19
+  origversion: null
+  status: newest
+  summary: Twitch chat in the terminal
+  maintainers:
+    - lord@mzte.de
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: twitch-tui
+  visiblename: twitch-tui
+  version: 2.6.19
+  origversion: null
+  status: newest
+  summary: Twitch chat in the terminal
+  maintainers:
+    - lord@mzte.de
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: twitch-tui
+  visiblename: twitch-tui
+  version: 2.6.19
+  origversion: null
+  status: newest
+  summary: Twitch chat in the terminal
+  maintainers:
+    - lord@mzte.de
+  licenses:
+    - MIT
+- repo: parabola
+  subrepo: extra
+  srcname: twitch-tui
+  binname: twitch-tui
+  visiblename: twitch-tui
+  version: 2.6.19
+  origversion: 2.6.19-1
+  status: newest
+  summary: Twitch chat in the terminal
+  licenses:
+    - MIT
+    - Apache-2.0
+- repo: pkgsrc_2026_1
+  srcname: chat/twitch-tui
+  binname: twitch-tui
+  visiblename: chat/twitch-tui
+  version: 2.6.19
+  origversion: null
+  status: newest
+  summary: Twitch chat in the terminal
+  maintainers:
+    - schmonz@netbsd.org
+  categories:
+    - chat
+- repo: pkgsrc_2026_2
+  srcname: chat/twitch-tui
+  binname: twitch-tui
+  visiblename: chat/twitch-tui
+  version: 2.6.19
+  origversion: null
+  status: newest
+  summary: Twitch chat in the terminal
+  maintainers:
+    - schmonz@netbsd.org
+  categories:
+    - chat
+- repo: pkgsrc_current
+  srcname: chat/twitch-tui
+  binname: twitch-tui
+  visiblename: chat/twitch-tui
+  version: 2.6.19
+  origversion: null
+  status: newest
+  summary: Twitch chat in the terminal
+  maintainers:
+    - schmonz@netbsd.org
+  categories:
+    - chat
