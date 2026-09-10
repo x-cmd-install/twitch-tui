@@ -12,6 +12,18 @@ Twitch chat in the terminal.
 x install twitch-tui
 ```
 
+## Code insight
+
+Total: **11,358** lines of code across **132** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 10,223 | 174 | 1,774 | 97 |
+| Json | 910 | 0 | 0 | 15 |
+| Toml | 197 | 106 | 18 | 5 |
+| Nix | 28 | 0 | 4 | 1 |
+| Markdown | 0 | 354 | 119 | 14 |
+
 ## Source
 
 - **Upstream**: <https://github.com/xithrius/twitch-tui>
@@ -36,20 +48,20 @@ x install twitch-tui
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 1 | 0 | 0 | 1 |
+| last60d | 2026-07-12 | 0 | 0 | 1 | 0 | 0 | 1 |
 | 90d | 2026-06-12 | 0 | 0 | 1 | 0 | 0 | 1 |
+| last180d | 2026-03-14 | 0 | 9 | 1 | 0 | 0 | 10 |
 | 360d | 2025-09-15 | 0 | 25 | 1 | 1 | 1 | 50 |
+| last720d | 2024-09-20 | 6 | 48 | 2 | 15 | 4 | 98 |
 
-## Code size
+## Distribution status
 
-Total: **11,358** lines of code across **132** files in the top 5 languages.
+Reported by **16** distros on [repology.org](https://repology.org/project/twitch-tui). **13** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 10,223 | 174 | 1,774 | 97 |
-| Json | 910 | 0 | 0 | 15 |
-| Toml | 197 | 106 | 18 | 5 |
-| Nix | 28 | 0 | 4 | 1 |
-| Markdown | 0 | 354 | 119 | 14 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `2.6.19` | ✅ latest |
+| Nix unstable | `2.6.19` | ✅ latest |
 
 ## Improve this data
 
@@ -60,4 +72,4 @@ Install metadata for twitch-tui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:41:41Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:06:12Z._
