@@ -47,12 +47,12 @@ Total: **11,358** lines of code across **132** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last60d | 2026-07-26 | 0 | 0 | 1 | 0 | 0 | 1 |
-| 90d | 2026-06-26 | 0 | 0 | 1 | 0 | 0 | 1 |
-| last180d | 2026-03-28 | 0 | 8 | 1 | 0 | 0 | 9 |
-| 360d | 2025-09-29 | 0 | 25 | 1 | 1 | 1 | 50 |
-| last720d | 2024-10-04 | 6 | 48 | 2 | 15 | 4 | 98 |
+| 30d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-07-27 | 0 | 0 | 1 | 0 | 0 | 1 |
+| 90d | 2026-06-27 | 0 | 0 | 1 | 0 | 0 | 1 |
+| last180d | 2026-03-29 | 0 | 8 | 1 | 0 | 0 | 9 |
+| 360d | 2025-09-30 | 0 | 25 | 1 | 1 | 1 | 50 |
+| last720d | 2024-10-05 | 6 | 48 | 2 | 15 | 4 | 98 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for twitch-tui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T04:41:24Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T04:54:00Z._
