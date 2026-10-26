@@ -14,13 +14,13 @@ x install twitch-tui
 
 ## Code insight
 
-Total: **11,366** lines of code across **132** files in the top 5 languages.
+Total: **11,577** lines of code across **133** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 10,232 | 174 | 1,775 | 97 |
+| Rust | 10,396 | 191 | 1,829 | 97 |
 | Json | 910 | 0 | 0 | 15 |
-| Toml | 196 | 106 | 18 | 5 |
+| Toml | 243 | 133 | 28 | 6 |
 | Nix | 28 | 0 | 4 | 1 |
 | Markdown | 0 | 355 | 120 | 14 |
 
@@ -33,26 +33,26 @@ Total: **11,366** lines of code across **132** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v3.0.0-alpha.4` (2025-04-13)
-- **Last commit**: 2026-10-11
+- **Last commit**: 2026-10-25
 
 ## Popularity
 
-- **Stars**: 634 · **Forks**: 44 · **Open issues**: 167 · **Contributors**: 18
+- **Stars**: 633 · **Forks**: 44 · **Open issues**: 167 · **Contributors**: 18
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 251 · **Open PRs**: 1 · **Closed issues**: 160 · **Open issues**: 7 · **Commits**: 885
+- **Releases**: 63 · **Merged PRs**: 252 · **Open PRs**: 1 · **Closed issues**: 160 · **Open issues**: 7 · **Commits**: 886
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 1 | 1 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-26 | 1 | 1 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-27 | 1 | 1 | 1 | 0 | 0 | 0 |
-| last180d | 2026-04-28 | 1 | 4 | 1 | 0 | 0 | 0 |
-| 360d | 2025-10-30 | 1 | 25 | 1 | 1 | 0 | 0 |
-| last720d | 2024-11-04 | 7 | 49 | 1 | 15 | 3 | 100 |
+| 30d | 2026-09-26 | 1 | 2 | 0 | 0 | 0 | 5 |
+| last60d | 2026-08-27 | 1 | 2 | 0 | 0 | 0 | 5 |
+| 90d | 2026-07-28 | 1 | 2 | 1 | 0 | 0 | 6 |
+| last180d | 2026-04-29 | 1 | 5 | 1 | 0 | 0 | 9 |
+| 360d | 2025-10-31 | 1 | 26 | 1 | 1 | 0 | 49 |
+| last720d | 2024-11-05 | 7 | 48 | 1 | 15 | 3 | 101 |
 
 ## Distribution status
 
@@ -72,4 +72,4 @@ Install metadata for twitch-tui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T04:35:40Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T04:36:34Z._
