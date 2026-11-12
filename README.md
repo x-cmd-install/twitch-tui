@@ -14,12 +14,12 @@ x install twitch-tui
 
 ## Code insight
 
-Total: **11,575** lines of code across **133** files in the top 5 languages.
+Total: **11,718** lines of code across **135** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 10,394 | 191 | 1,829 | 97 |
-| Json | 910 | 0 | 0 | 15 |
+| Rust | 10,460 | 192 | 1,844 | 98 |
+| Json | 987 | 0 | 0 | 16 |
 | Toml | 243 | 133 | 28 | 6 |
 | Nix | 28 | 0 | 4 | 1 |
 | Markdown | 0 | 355 | 120 | 14 |
@@ -32,27 +32,27 @@ Total: **11,575** lines of code across **133** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v3.0.0-alpha.4` (2025-04-13)
-- **Last commit**: 2026-11-03
+- **Latest**: `v3.0.0` (2026-11-12)
+- **Last commit**: 2026-11-12
 
 ## Popularity
 
-- **Stars**: 634 · **Forks**: 47 · **Open issues**: 167 · **Contributors**: 18
+- **Stars**: 635 · **Forks**: 47 · **Open issues**: 167 · **Contributors**: 19
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 253 · **Open PRs**: 1 · **Closed issues**: 160 · **Open issues**: 7 · **Commits**: 887
+- **Releases**: 64 · **Merged PRs**: 254 · **Open PRs**: 1 · **Closed issues**: 160 · **Open issues**: 7 · **Commits**: 891
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 0 | 2 | 0 | 0 | 0 | 2 |
-| last60d | 2026-09-12 | 1 | 3 | 0 | 0 | 0 | 6 |
-| 90d | 2026-08-13 | 1 | 3 | 1 | 0 | 0 | 7 |
-| last180d | 2026-05-15 | 1 | 4 | 1 | 0 | 0 | 8 |
-| 360d | 2025-11-16 | 1 | 27 | 1 | 1 | 0 | 50 |
-| last720d | 2024-11-21 | 6 | 49 | 1 | 15 | 3 | 98 |
+| 30d | 2026-10-13 | 1 | 3 | 0 | 0 | 0 | 6 |
+| last60d | 2026-09-13 | 2 | 4 | 0 | 0 | 0 | 10 |
+| 90d | 2026-08-14 | 2 | 4 | 1 | 0 | 0 | 11 |
+| last180d | 2026-05-16 | 2 | 5 | 1 | 0 | 0 | 12 |
+| 360d | 2025-11-17 | 2 | 28 | 1 | 1 | 0 | 54 |
+| last720d | 2024-11-22 | 7 | 50 | 1 | 15 | 3 | 102 |
 
 ## Distribution status
 
@@ -72,4 +72,4 @@ Install metadata for twitch-tui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T06:02:35Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T07:04:56Z._
