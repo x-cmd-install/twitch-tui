@@ -47,16 +47,16 @@ Total: **11,718** lines of code across **135** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 1 | 3 | 0 | 0 | 0 | 6 |
-| last60d | 2026-09-13 | 2 | 4 | 0 | 0 | 0 | 10 |
-| 90d | 2026-08-14 | 2 | 4 | 1 | 0 | 0 | 11 |
-| last180d | 2026-05-16 | 2 | 5 | 1 | 0 | 0 | 12 |
-| 360d | 2025-11-17 | 2 | 28 | 1 | 1 | 0 | 54 |
-| last720d | 2024-11-22 | 7 | 50 | 1 | 15 | 3 | 102 |
+| 30d | 2026-10-14 | 1 | 3 | 0 | 0 | 0 | 6 |
+| last60d | 2026-09-14 | 2 | 4 | 0 | 0 | 0 | 10 |
+| 90d | 2026-08-15 | 2 | 4 | 1 | 0 | 0 | 11 |
+| last180d | 2026-05-17 | 2 | 5 | 1 | 0 | 0 | 12 |
+| 360d | 2025-11-18 | 2 | 28 | 1 | 1 | 0 | 54 |
+| last720d | 2024-11-23 | 7 | 50 | 1 | 15 | 3 | 102 |
 
 ## Distribution status
 
-Reported by **16** distros on [repology.org](https://repology.org/project/twitch-tui). **13** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+Reported by **16** distros on [repology.org](https://repology.org/project/twitch-tui). **12** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -72,4 +72,4 @@ Install metadata for twitch-tui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T07:04:56Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T06:37:32Z._
