@@ -1,14 +1,3 @@
-- repo: nix_stable_25_11
-  srcname: twitch-tui
-  visiblename: twitch-tui
-  version: 2.6.19
-  origversion: null
-  status: outdated
-  summary: Twitch chat in the terminal
-  maintainers:
-    - lord@mzte.de
-  licenses:
-    - MIT
 - repo: arch
   subrepo: extra
   srcname: twitch-tui
@@ -62,9 +51,9 @@
   srcname: twitch-tui
   binname: twitch-tui
   visiblename: twitch-tui
-  version: 2.6.19
-  origversion: 2.6.19-1
-  status: outdated
+  version: 3.0.0
+  origversion: 3.0.0-1
+  status: newest
   summary: Twitch chat in the terminal
   licenses:
     - MIT
@@ -104,6 +93,17 @@
   licenses:
     - MIT
 - repo: nix_stable_25_05
+  srcname: twitch-tui
+  visiblename: twitch-tui
+  version: 2.6.19
+  origversion: null
+  status: outdated
+  summary: Twitch chat in the terminal
+  maintainers:
+    - lord@mzte.de
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
   srcname: twitch-tui
   visiblename: twitch-tui
   version: 2.6.19
