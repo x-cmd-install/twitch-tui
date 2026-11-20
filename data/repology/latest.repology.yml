@@ -1,3 +1,15 @@
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: twitch-tui
+  binname: twitch-tui
+  visiblename: twitch-tui
+  version: 3.0.0
+  origversion: 3.0.0-1
+  status: newest
+  summary: Twitch chat in the terminal
+  licenses:
+    - MIT
+    - Apache-2.0
 - repo: arch
   subrepo: extra
   srcname: twitch-tui
@@ -42,18 +54,6 @@
   version: 2.6.19
   origversion: 2.6.19-1
   status: outdated
-  summary: Twitch chat in the terminal
-  licenses:
-    - MIT
-    - Apache-2.0
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: twitch-tui
-  binname: twitch-tui
-  visiblename: twitch-tui
-  version: 3.0.0
-  origversion: 3.0.0-1
-  status: newest
   summary: Twitch chat in the terminal
   licenses:
     - MIT
@@ -128,9 +128,9 @@
 - repo: nix_unstable
   srcname: twitch-tui
   visiblename: twitch-tui
-  version: 2.6.19
+  version: 3.0.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Twitch chat in the terminal
   maintainers:
     - lord@mzte.de
